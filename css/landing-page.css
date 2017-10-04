@@ -34,10 +34,10 @@ h6 {
     /*background: url(../img/programming-background-design_1223-79.jpg) no-repeat;*/
     background-size: auto;
     background: #65b7cc;
-    background: -webkit-linear-gradient(#ffc001, #00e0fe); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#ffc001, #00e0fe); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#ffc001, #00e0fe); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#ffc001, #00e0fe); /* Standard syntax */
+    background: -webkit-linear-gradient(#5aa4ff, #6257ff); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#5aa4ff, #6257ff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#5aa4ff, #6257ff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#5aa4ff, #6257ff); /* Standard syntax */
 }
 
 .intro-message {
